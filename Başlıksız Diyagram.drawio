@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T17:49:07.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.9" etag="PFLVoIs6flukHjmvEVXB" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-27T18:10:40.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="6MKZiS1uvIRQVhWG2LYB" version="21.6.9" type="github">
   <diagram name="Sayfa -1" id="d7zEcjoZ57aT__9en26P">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FKyoqmOGheVECli3ktul-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FKyoqmOGheVECli3ktul-1" target="FKyoqmOGheVECli3ktul-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-1" value="Başla" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKyoqmOGheVECli3ktul-2" target="FKyoqmOGheVECli3ktul-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-2" value="2 Pozitif Tam Sayı Girin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKyoqmOGheVECli3ktul-3" target="FKyoqmOGheVECli3ktul-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-3" value="&lt;div&gt;A= Büyük Sayı&lt;/div&gt;&lt;div&gt;B= Küçük Sayı&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKyoqmOGheVECli3ktul-5" target="FKyoqmOGheVECli3ktul-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-5" value="K=A%B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKyoqmOGheVECli3ktul-7" target="FKyoqmOGheVECli3ktul-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FKyoqmOGheVECli3ktul-7" target="FKyoqmOGheVECli3ktul-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-7" value="K==0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-9" value="B=Ortak Bölenlerin En Büyüğü" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKyoqmOGheVECli3ktul-11" target="FKyoqmOGheVECli3ktul-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-11" value="&lt;div&gt;A=B&lt;/div&gt;&lt;div&gt;B=K&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-15" value="Evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-16" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FKyoqmOGheVECli3ktul-17" value="Öklid Teoremi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="630" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
